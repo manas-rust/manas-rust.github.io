@@ -1,0 +1,6 @@
+[book]
+authors = ["wangqing"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "vagrant&maven 使用指南 "
